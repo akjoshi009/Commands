@@ -1,0 +1,4 @@
+if you have a issue Pip error: Microsoft Visual C++ 14.0 is required then just use following command
+
+
+conda install libpython m2w64-toolchain -c msys2
